@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="github-non-los"
+           sync-c="true"
+           sync-j="4"
+           fetch="https://github.com" />
+
+  <project path="manifest" name="Evolution-X-Devices/kernel_google_gs-6.6_manifest" remote="github-non-los" revision="bka" />
+
+</manifest>
